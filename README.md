@@ -58,16 +58,11 @@
 ## Top Respositorys:
 
 <p align="left">
-    <a target="_blank" href="https://github.com/cuongkunct/portfolio"
-        ></a>
-    <a target="_blank" href="https://github.com/cuongkunct/fiverr-system"
-        ></a>
-    <a target="_blank" href="https://github.com/cuongkunct/elearning-system"
-        ></a>
-    <a target="_blank" href="https://github.com/cuongkunct/cinema_vn"
-        ></a>
-  <a target="_blank" href="https://github.com/cuongkunct/ecommer-shop"
-        ></a>
+    <a target="_blank" href="https://github.com/cuongkunct/portfolio">Portfolio Project</a> | 
+    <a target="_blank" href="https://github.com/cuongkunct/fiverr-system">Fiverr System</a> | 
+    <a target="_blank" href="https://github.com/cuongkunct/elearning-system">E-learning System</a> | 
+    <a target="_blank" href="https://github.com/cuongkunct/cinema_vn">Cinema VN</a> | 
+    <a target="_blank" href="https://github.com/cuongkunct/ecommer-shop">Ecommerce Shop</a>
 </p>
 
 ## My Stats:
