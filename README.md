@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <a href="#">
-        <img align="center"src="./asset/banner.png"/>
+        <img align="center"src="./assets/banner.png"/>
     </a>
 </p>
   
@@ -13,7 +13,7 @@
 
 ## What I'm Doing:
 
-<img align="right" width="400" src="./asset/item4_4.gif" alt="coding" />
+<img align="right" width="400" src="./assets/item4_4.gif" alt="coding" />
 
 -   🌱 I’m currently learning **BackEnd Developer**
 -   💬 Ask me about **MERN**
@@ -26,16 +26,16 @@
 
 <p align="left">
     <a href="https://zalo.me/0836789578" target="_blank" >
-        <img src="./asset/zalo.svg" alt="zalo"/>
+        <img src="./assets/zalo.svg" alt="zalo"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
-        <img src="./asset/facebook.svg" alt="facebook"/>
+        <img src="./assets/facebook.svg" alt="facebook"/>
     </a>
     <a href="https://www.linkedin.com/in/tranvancuong/" target="_blank">
-        <img src="./asset/linkedin.svg" alt="linkedin"/>
+        <img src="./assets/linkedin.svg" alt="linkedin"/>
     </a>
     <a href="https://instagram.com/tranvancuong/" target="_blank">
-        <img src="./asset/instagram.svg" alt="instagram"/>
+        <img src="./assets/instagram.svg" alt="instagram"/>
     </a>
 </p>
 
