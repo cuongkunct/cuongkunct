@@ -18,23 +18,23 @@
 -   🌱 I’m currently learning **BackEnd Developer**
 -   💬 Ask me about **MERN**
 -   🌐 Personal website: **<a href="">tranvancuong</a>**
--   📫 How to reach me **tranvancuong@gmail.com**
+-   📫 How to reach me **cuongkun.ct@gmail.com**
 -   📄 My CV: **<a href="" target="_blank">EN</a>** / **<a href="" target="_blank">VI</a>**
 -   ⚡ Fun fact **I think I am funny**
 
 ## Connect with me:
 
 <p align="left">
-    <a href="https://zalo.me/0836789578" target="_blank" >
+    <a href="https://www.facebook.com/cuongtr245" target="_blank" >
         <img src="./assets/zalo.svg" alt="zalo"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
+    <a href="https://www.facebook.com/cuongtr245" target="_blank">
         <img src="./assets/facebook.svg" alt="facebook"/>
     </a>
-    <a href="https://www.linkedin.com/in/tranvancuong/" target="_blank">
+    <a href="https://www.facebook.com/cuongtr245" target="_blank">
         <img src="./assets/linkedin.svg" alt="linkedin"/>
     </a>
-    <a href="https://instagram.com/tranvancuong/" target="_blank">
+    <a href="https://www.facebook.com/cuongtr245" target="_blank">
         <img src="./assets/instagram.svg" alt="instagram"/>
     </a>
 </p>
