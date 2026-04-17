@@ -1,4 +1,3 @@
-<!-- Header Section -->
 <div align="center">
   <p>
     <a href="#">
@@ -26,16 +25,16 @@
 
 <p align="left">
     <a href="https://zalo.me/0836789578" target="_blank" >
-        <img src="./asset/zalo.svg" alt="zalo"/>
+        <img src="./assets/zalo.svg" alt="zalo"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
-        <img src="./asset/facebook.svg" alt="facebook"/>
+        <img src="./assets/facebook.svg" alt="facebook"/>
     </a>
     <a href="https://www.linkedin.com/in/tranvancuong/" target="_blank">
-        <img src="./asset/linkedin.svg" alt="linkedin"/>
+        <img src="./assets/linkedin.svg" alt="linkedin"/>
     </a>
     <a href="https://instagram.com/tranvancuong/" target="_blank">
-        <img src="./asset/instagram.svg" alt="instagram"/>
+        <img src="./assets/instagram.svg" alt="instagram"/>
     </a>
 </p>
 
@@ -54,6 +53,14 @@
         src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker,firebase"
     />
 </p>
+
+## Certificates:
+
+- 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2024
+- 🧪 **[Back End Developer]([LINK_CUA_BAN](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing))** – 2020
+- 📜 **[[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
+
+---
 
 ## Top Respositorys:
 
@@ -89,4 +96,3 @@
 <p align="center">
     <a href="#my-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranvancuong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="tranvancuong" /></a>
 </p>
-
