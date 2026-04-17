@@ -57,17 +57,17 @@
 ## Certificates:
 
 - 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2024
-- 🧪 **[Back End Developer]((https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing))** – 2020
+- 🧪 **[Back End Developer](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing)** – 2020
 - 📜 **[[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
 
 ---
 
 ## Top Repositories:
 
-- 🚀 **[Portfolio Fullstack Project](https://github.com/cuongkunct/portfolio)** *Tech: React, Tailwind CSS, Node.js*
-- 🎓 **[Elearning System Front-End](https://github.com/cuongkunct/elearning-system)** *Tech: React, Redux, Ant Design*
-- 🛒 **[Ecommerce Fullstack Project](https://github.com/cuongkunct/ecommer-shop)** *Tech: Next.js, NestJS, MySQL, Docker*
-- 💼 **[Fiverr System Backend](https://github.com/cuongkunct/fiverr-system)** *Tech: Node.js, Express, MongoDB, Microservices*
+- 🚀 **[Portfolio Fullstack Project](https://github.com/cuongkunct/portfolio)** *Tech: React, Tailwind CSS, NextJS, NestJs*
+- 🎓 **[Elearning System Front-End](https://github.com/cuongkunct/elearning-system)** *Tech: React, Redux, HeroUI*
+- 🛒 **[Ecommerce Fullstack Project](https://github.com/cuongkunct/ecommer-shop)** *Tech: NodeJS, Mongoose, ReactJS*
+- 💼 **[Fiverr System Backend](https://github.com/cuongkunct/fiverr-system)** *Tech: Docker, CI/CD, NestJS
 
 ---
 
