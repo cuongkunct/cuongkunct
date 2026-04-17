@@ -57,38 +57,26 @@
 ## Certificates:
 
 - 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2024
-- 🧪 **[Back End Developer]([LINK_CUA_BAN](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing))** – 2020
+- 🧪 **[Back End Developer]((https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing))** – 2020
 - 📜 **[[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
 
 ---
 
-## Top Respositorys:
+## Top Repositories:
 
-<p align="left">
-    <a target="_blank" href="https://github.com/tranvancuong/L9-Learning_tranvancuong"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tranvancuong&repo=L9-Learning_tranvancuong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
-    <a target="_blank" href="https://github.com/tranvancuong/L9_Learning_API_tranvancuong"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tranvancuong&repo=L9_Learning_API_tranvancuong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
-    <a target="_blank" href="https://github.com/tranvancuong/BC44_REACTJS_43_Nhom9_Netflix/tree/tranvancuong_API_MOVIE"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tranvancuong&repo=BC44_REACTJS_43_Nhom9_Netflix&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
-    <a target="_blank" href="https://github.com/tranvancuong/Movie_API_tranvancuong"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tranvancuong&repo=Movie_API_tranvancuong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
+- 🚀 **[Portfolio Fullstack Project](https://github.com/cuongkunct/portfolio)** *Tech: React, Tailwind CSS, Node.js*
+- 🎓 **[Elearning System Front-End](https://github.com/cuongkunct/elearning-system)** *Tech: React, Redux, Ant Design*
+- 🛒 **[Ecommerce Fullstack Project](https://github.com/cuongkunct/ecommer-shop)** *Tech: Next.js, NestJS, MySQL, Docker*
+- 💼 **[Fiverr System Backend](https://github.com/cuongkunct/fiverr-system)** *Tech: Node.js, Express, MongoDB, Microservices*
+
+---
+
+## My Stats:
+
+<p align="center">
+    <a href="#my-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongkunct&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="cuongkunct stats" />
+    </a>
 </p>
 
 ## My Stats:
