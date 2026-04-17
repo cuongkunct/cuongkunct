@@ -71,13 +71,6 @@
 
 ---
 
-## My Stats:
-
-<p align="center">
-    <a href="#my-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongkunct&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="cuongkunct stats" />
-    </a>
-</p>
 
 ## My Stats:
 
