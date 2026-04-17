@@ -56,9 +56,9 @@
 
 ## Certificates:
 
-- 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2024
-- 🧪 **[Back End Developer](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing)** – 2020
-- 📜 **[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
+- 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2026
+- 🧪 **[Back End Developer](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing)** – 2026
+- 📜 **[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2020
 
 ---
 
