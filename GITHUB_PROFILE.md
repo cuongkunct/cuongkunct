@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="#">
-        <img align="center"src="./asset/banner.png"/>
+        <img align="center"src="./assets/banner.png"/>
     </a>
 </p>
   
@@ -58,7 +58,7 @@
 
 - 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2024
 - 🧪 **[Back End Developer](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing)** – 2020
-- 📜 **[[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
+- 📜 **[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
 
 ---
 
