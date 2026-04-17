@@ -1,4 +1,3 @@
-[<!-- Header Section -->
 <div align="center">
   <p>
     <a href="#">
@@ -13,28 +12,28 @@
 
 ## What I'm Doing:
 
-<img align="right" width="400" src="./assets/item4_4.gif" alt="coding" />
+<img align="right" width="400" src="./asset/item4_4.gif" alt="coding" />
 
 -   🌱 I’m currently learning **BackEnd Developer**
 -   💬 Ask me about **MERN**
 -   🌐 Personal website: **<a href="">tranvancuong</a>**
--   📫 How to reach me **cuongkun.ct@gmail.com**
+-   📫 How to reach me **tranvancuong@gmail.com**
 -   📄 My CV: **<a href="" target="_blank">EN</a>** / **<a href="" target="_blank">VI</a>**
 -   ⚡ Fun fact **I think I am funny**
 
 ## Connect with me:
 
 <p align="left">
-    <a href="https://www.facebook.com/cuongtr245" target="_blank" >
+    <a href="https://zalo.me/0836789578" target="_blank" >
         <img src="./assets/zalo.svg" alt="zalo"/>
     </a>
-    <a href="https://www.facebook.com/cuongtr245" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
         <img src="./assets/facebook.svg" alt="facebook"/>
     </a>
-    <a href="https://www.facebook.com/cuongtr245" target="_blank">
+    <a href="https://www.linkedin.com/in/tranvancuong/" target="_blank">
         <img src="./assets/linkedin.svg" alt="linkedin"/>
     </a>
-    <a href="https://www.facebook.com/cuongtr245" target="_blank">
+    <a href="https://instagram.com/tranvancuong/" target="_blank">
         <img src="./assets/instagram.svg" alt="instagram"/>
     </a>
 </p>
@@ -55,20 +54,26 @@
     />
 </p>
 
-## Top Respositorys:
+## Certificates:
 
-<p align="left">
-    <a target="_blank" href="https://github.com/cuongkunct/portfolio">Portfolio Project</a> | 
-    <a target="_blank" href="https://github.com/cuongkunct/fiverr-system">Fiverr System</a> | 
-    <a target="_blank" href="https://github.com/cuongkunct/elearning-system">E-learning System</a> | 
-    <a target="_blank" href="https://github.com/cuongkunct/cinema_vn">Cinema VN</a> | 
-    <a target="_blank" href="https://github.com/cuongkunct/ecommer-shop">Ecommerce Shop</a>
-</p>
+- 🎓 **[Front End Developer](https://drive.google.com/file/d/1c2FyLN6Urpc6mD1YcUBM_tpXPN0-zjqO/view?usp=drive_link)** – 2024
+- 🧪 **[Back End Developer](https://drive.google.com/file/d/1OprR6VI4brubI8vzts3iNAa_pN6iLDWO/view?usp=sharing)** – 2020
+- 📜 **[Manual Software Testing](https://drive.google.com/file/d/1sGDCwn_UXwrr5rs2a4Wb41w_IO5jg82b/view?usp=sharing)** – 2021
+
+---
+
+## Top Repositories:
+
+- 🚀 **[Portfolio Fullstack Project](https://github.com/cuongkunct/portfolio)** *Tech: React, Tailwind CSS, NextJS, NestJs*
+- 🎓 **[Elearning System Front-End](https://github.com/cuongkunct/elearning-system)** *Tech: React, Redux, HeroUI*
+- 🛒 **[Ecommerce Fullstack Project](https://github.com/cuongkunct/ecommer-shop)** *Tech: NodeJS, Mongoose, ReactJS*
+- 💼 **[Fiverr System Backend](https://github.com/cuongkunct/fiverr-system)** *Tech: Docker, CI/CD, NestJS
+
+---
+
 
 ## My Stats:
 
 <p align="center">
     <a href="#my-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranvancuong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="tranvancuong" /></a>
 </p>
-
-](https://github.com/cuongkunct)
