@@ -16,8 +16,8 @@
 
 -   🌱 I’m currently learning **BackEnd Developer**
 -   💬 Ask me about **MERN**
--   🌐 Personal website: **<a href="">tranvancuong</a>**
--   📫 How to reach me **tranvancuong@gmail.com**
+-   🌐 Personal website: **<a href="https://vercel-portfolio-delta-nine.vercel.app/">Cuong Tran</a>**
+-   📫 How to reach me **cuongkun.ct@gmail.com**
 -   📄 My CV: **<a href="" target="_blank">EN</a>** / **<a href="" target="_blank">VI</a>**
 -   ⚡ Fun fact **I think I am funny**
 
